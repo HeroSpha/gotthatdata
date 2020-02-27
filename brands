@@ -2,17 +2,17 @@
   {
     "brandId": 1,
     "name": "Zara",
-    "imagePath": ""
+    "imagePath": "https://di2ponv0v5otw.cloudfront.net/posts/2019/04/10/5cadee53248f7aa57fa9cf5b/m_5cadee8b9d3b78ec8a1ab212.jpg"
   },
   {
     "brandId": 4,
     "name": "Nike",
-    "imagePath": ""
+    "imagePath": "https://static.nike.com/a/images/f_auto/dpr_1.0/h_700,c_limit/6eda8ad6-ac4b-4522-b181-2c57bd0ed676/nike-just-do-it.jpg"
   },
   {
     "brandId": 2,
     "name": "Adidas",
-    "imagePath": ""
+    "imagePath": "https://static.highsnobiety.com/thumbor/EmYkrW7YedMWPii_z8s5IX7whRQ=/fit-in/480x320/smart/static.highsnobiety.com/wp-content/uploads/2019/02/19153143/best-adidas-sneakers-2019-main.jpg"
   },
   {
     "brandId": 3,
@@ -32,21 +32,21 @@
   {
     "brandId": 7,
     "name": "Reebok",
-    "imagePath": ""
+    "imagePath": "https://pbs.twimg.com/media/EHt-cSyWwAA5sgj.jpg"
   },
   {
     "brandId": 8,
     "name": "Gucci",
-    "imagePath": ""
+    "imagePath": "https://di2ponv0v5otw.cloudfront.net/posts/2019/04/13/5cb2994208d2c250b1d8771b/m_5cb2997abbf076019154730b.jpg"
   },
   {
     "brandId": 9,
     "name": "Puma",
-    "imagePath": ""
+    "imagePath": "https://images.puma.com/image/upload/q_auto,w_543/regional/~regional~PNA~others~KOP~Home~SS20~Rider~Future+Rider+Play+On~20_SS_ECOMM_FUTURE_RIDER_PLAY_ON_WOMENS_SITE_Paid-Search_1440x500_2_3.png/fmt/jpg"
   },
   {
     "brandId": 10,
-    "name": "Zara",
-    "imagePath": ""
+    "name": "Polo",
+    "imagePath": "https://webimg.secondhandapp.com/w-i-mgl/5d2764f594fe762e354214fd"
   }
 ]
