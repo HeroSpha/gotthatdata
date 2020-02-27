@@ -1,7 +1,7 @@
 [
   {
     "productId": "1",
-    "name": "Puma T Shirt",
+    "name": "Classic Hand Bag",
     "price": "16.67",
     "description": "Puma t shirt for all weather",
     "categoryId": "1",
@@ -17,30 +17,30 @@
     },
     "productImages": [
       {
-        "imagePath": ""
+        "imagePath": "https://i.ebayimg.com/images/g/Aq8AAOSwmFVd1lY5/s-l800.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://5.imimg.com/data5/GA/GH/MY-19154090/img-20170106-wa0024-500x500.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://cdn.shopify.com/s/files/1/0043/1518/5221/products/zarachain_2048x2048.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://5.imimg.com/data5/MH/GB/MY-67943830/whatsapp-image-2018-07-13-at-7-27-58-p-500x500.jpeg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.hellomagazine.com/imagenes/fashion/royal-style/2019040171527/princess-beatrice-fashion-zara-raffia-bag/0-349-16/zara-bag-princess-beatrice-z.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://webimg.secondhandapp.com/w-i-mgl/5acbcfd8c967671a3ab5ff77"
       }
     ]
   },
   {
     "productId": "2",
-    "name": "Puma T Shirt",
+    "name": "Zara Classic T Shirt",
     "price": "16.67",
-    "description": "Puma t shirt for all weather",
+    "description": "Description goes here....",
     "categoryId": "2",
     "brandId": "1",
     "account": {
@@ -54,28 +54,28 @@
     },
     "productImages": [
       {
-        "imagePath": ""
+        "imagePath": "https://i.ebayimg.com/images/g/KlYAAOSwZQ9eDyOd/s-l800.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSna4tdm5pWcodtet-EGOMXm0eTFj1SqKdX5KIMlOnqWXaT9ADt"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://funnyt-shirt.net/wp-content/uploads/2019/06/Tu-si-a-Zara-Sweatshirt.png"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTdpsJ5Ev9H4JFDTsXr4pn67LyavpyWPVX2SLryuqBzLb9WB4R"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ_5bTKpk7ZoODlb2qK7iW3lYgJLIfJTzVdamkITprZfstXBL8"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://media.karousell.com/media/photos/products/2018/11/19/zara_men_tee_new_with_tag_1542558117_be8d8eae_progressive.jpg"
       }
     ]
   },
   {
     "productId": "3",
-    "name": "Puma T Shirt",
+    "name": "Zara Jean Top",
     "price": "16.67",
     "description": "Puma t shirt for all weather",
     "categoryId": "3",
@@ -91,22 +91,22 @@
     },
     "productImages": [
       {
-        "imagePath": ""
+        "imagePath": "https://static.zara.net/photos//mkt/spots/ss19-new-accessories-girl-kids/layout-desktop//look1-look1.st.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       }
     ]
   },
@@ -165,19 +165,19 @@
     },
     "productImages": [
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
         "imagePath": ""
