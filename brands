@@ -1,0 +1,52 @@
+[
+  {
+    "brandId": 1,
+    "name": "Zara",
+    "imagePath": ""
+  },
+  {
+    "brandId": 4,
+    "name": "Nike",
+    "imagePath": ""
+  },
+  {
+    "brandId": 2,
+    "name": "Adidas",
+    "imagePath": ""
+  },
+  {
+    "brandId": 3,
+    "name": "Chanel",
+    "imagePath": ""
+  },
+  {
+    "brandId": 5,
+    "name": "D & G",
+    "imagePath": ""
+  },
+  {
+    "brandId": 6,
+    "name": "Louis vuitton",
+    "imagePath": ""
+  },
+  {
+    "brandId": 7,
+    "name": "Reebok",
+    "imagePath": ""
+  },
+  {
+    "brandId": 8,
+    "name": "Gucci",
+    "imagePath": ""
+  },
+  {
+    "brandId": 9,
+    "name": "Puma",
+    "imagePath": ""
+  },
+  {
+    "brandId": 10,
+    "name": "Zara",
+    "imagePath": ""
+  }
+]

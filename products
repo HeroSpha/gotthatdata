@@ -1,0 +1,964 @@
+[
+  {
+    "productId": "1",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "1",
+    "brandId": "1",
+    "account": {
+      "fullname": "Don James"
+    },
+    "category": {
+      "name": "Women"
+    },
+    "brand": {
+      "name": "Zara"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "2",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "2",
+    "brandId": "1",
+    "account": {
+      "fullname": "Jeremy Jomes"
+    },
+    "category": {
+      "name": "Men"
+    },
+    "brand": {
+      "name": "Zara"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "3",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "3",
+    "brandId": "1",
+    "account": {
+      "fullname": "Getty"
+    },
+    "category": {
+      "name": "Kids"
+    },
+    "brand": {
+      "name": "Zara"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "4",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "4",
+    "brandId": "1",
+    "account": {
+      "fullname": "Donnel"
+    },
+    "category": {
+      "name": "Sports"
+    },
+    "brand": {
+      "name": "Zara"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "5",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "5",
+    "brandId": "1",
+    "account": {
+      "fullname": "Thando"
+    },
+    "category": {
+      "name": "Beauty"
+    },
+    "brand": {
+      "name": "Zara"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "6",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "1",
+    "brandId": "2",
+    "account": {
+      "fullname": "Don James"
+    },
+    "category": {
+      "name": "Women"
+    },
+    "brand": {
+      "name": "Adidas"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "7",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "2",
+    "brandId": "2",
+    "account": {
+      "fullname": "Jeremy Jomes"
+    },
+    "category": {
+      "name": "Men"
+    },
+    "brand": {
+      "name": "Adidas"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "8",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "3",
+    "brandId": "2",
+    "account": {
+      "fullname": "Getty"
+    },
+    "category": {
+      "name": "Kids"
+    },
+    "brand": {
+      "name": "Adidas"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "9",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "4",
+    "brandId": "2",
+    "account": {
+      "fullname": "Donnel"
+    },
+    "category": {
+      "name": "Sports"
+    },
+    "brand": {
+      "name": "Adidas"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "10",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "5",
+    "brandId": "2",
+    "account": {
+      "fullname": "Thando"
+    },
+    "category": {
+      "name": "Beauty"
+    },
+    "brand": {
+      "name": "Adidas"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "11",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "1",
+    "brandId": "3",
+    "account": {
+      "fullname": "Don James"
+    },
+    "category": {
+      "name": "Women"
+    },
+    "brand": {
+      "name": "Chanel"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "12",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "2",
+    "brandId": "3",
+    "account": {
+      "fullname": "Jeremy Jomes"
+    },
+    "category": {
+      "name": "Men"
+    },
+    "brand": {
+      "name": "Chanel"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "13",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "3",
+    "brandId": "3",
+    "account": {
+      "fullname": "Getty"
+    },
+    "category": {
+      "name": "Kids"
+    },
+    "brand": {
+      "name": "Chanel"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "14",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "4",
+    "brandId": "3",
+    "account": {
+      "fullname": "Donnel"
+    },
+    "category": {
+      "name": "Sports"
+    },
+    "brand": {
+      "name": "Chanel"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "15",
+    "name": "Puma T Shirt",
+    "price": "23.90",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "5",
+    "brandId": "3",
+    "account": {
+      "fullname": "Thando"
+    },
+    "category": {
+      "name": "Beauty"
+    },
+    "brand": {
+      "name": "Chanel"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "16",
+    "name": "Puma T Shirt",
+    "price": 16.67,
+    "description": "Puma t shirt for all weather",
+    "categoryId": 1,
+    "brandId": 4,
+    "account": {
+      "fullname": "Don James"
+    },
+    "category": {
+      "name": "Women"
+    },
+    "brand": {
+      "name": "Nike"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "17",
+    "name": "Puma T Shirt",
+    "price": "10.89",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "2",
+    "brandId": "4",
+    "account": {
+      "fullname": "Jeremy Jomes"
+    },
+    "category": {
+      "name": "Men"
+    },
+    "brand": {
+      "name": "Nike"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "18",
+    "name": "Puma T Shirt",
+    "price": "2.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "3",
+    "brandId": "4",
+    "account": {
+      "fullname": "Getty"
+    },
+    "category": {
+      "name": "Kids"
+    },
+    "brand": {
+      "name": "Nike"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "18",
+    "name": "Puma T Shirt",
+    "price": "57.90",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "4",
+    "brandId": "4",
+    "account": {
+      "fullname": "Donnel"
+    },
+    "category": {
+      "name": "Sports"
+    },
+    "brand": {
+      "name": "Nike"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "20",
+    "name": "Puma T Shirt",
+    "price": "1.90",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "5",
+    "brandId": "4",
+    "account": {
+      "fullname": "Thando"
+    },
+    "category": {
+      "name": "Beauty"
+    },
+    "brand": {
+      "name": "Nike"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "21",
+    "name": "Puma T Shirt",
+    "price": "34.90",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "1",
+    "brandId": "7",
+    "account": {
+      "fullname": "Don James"
+    },
+    "category": {
+      "name": "Women"
+    },
+    "brand": {
+      "name": "Reebok"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "22",
+    "name": "Puma T Shirt",
+    "price": "2.56",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "2",
+    "brandId": "7",
+    "account": {
+      "fullname": "Jeremy Jomes"
+    },
+    "category": {
+      "name": "Men"
+    },
+    "brand": {
+      "name": "Rebook"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "23",
+    "name": "Puma T Shirt",
+    "price": "7.99",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "3",
+    "brandId": "7",
+    "account": {
+      "fullname": "Getty"
+    },
+    "category": {
+      "name": "Kids"
+    },
+    "brand": {
+      "name": "Reebok"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "24",
+    "name": "Puma T Shirt",
+    "price": "7.90",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "4",
+    "brandId": "7",
+    "account": {
+      "fullname": "Donnel"
+    },
+    "category": {
+      "name": "Sports"
+    },
+    "brand": {
+      "name": "Zara"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "25",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "5",
+    "brandId": "7",
+    "account": {
+      "fullname": "Thando"
+    },
+    "category": {
+      "name": "Beauty"
+    },
+    "brand": {
+      "name": "Reebok"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  },
+  {
+    "productId": "26",
+    "name": "Puma T Shirt",
+    "price": "16.67",
+    "description": "Puma t shirt for all weather",
+    "categoryId": "1",
+    "brandId": "7",
+    "account": {
+      "fullname": "Don James"
+    },
+    "category": {
+      "name": "Women"
+    },
+    "brand": {
+      "name": "D & G"
+    },
+    "productImages": [
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      },
+      {
+        "imagePath": ""
+      }
+    ]
+  }
+]

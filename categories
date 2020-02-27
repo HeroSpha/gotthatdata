@@ -1,0 +1,27 @@
+[
+  {
+    "categoryId": "1",
+    "name": "Women",
+    "imagePath": ""
+  },
+  {
+    "categoryId": "1",
+    "name": "Men",
+    "imagePath": ""
+  },
+  {
+    "categoryId": "3",
+    "name": "Kids",
+    "imagePath": ""
+  },
+  {
+    "categoryId": "4",
+    "name": "Sports",
+    "imagePath": ""
+  },
+  {
+    "categoryId": "5",
+    "name": "Beauty",
+    "imagePath": ""
+  }
+]
