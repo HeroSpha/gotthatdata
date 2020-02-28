@@ -3,7 +3,8 @@
     "productId": "1",
     "name": "Classic Hand Bag",
     "price": "16.67",
-    "description": "Puma t shirt for all weather",
+    "image": "https://i.ebayimg.com/images/g/Aq8AAOSwmFVd1lY5/s-l800.jpg",
+    "description": "Zara Classic hand bag for women",
     "categoryId": "1",
     "brandId": "1",
     "account": {
@@ -38,8 +39,9 @@
   },
   {
     "productId": "2",
-    "name": "Zara Classic T Shirt",
+    "name": "Zara T Shirt",
     "price": "16.67",
+    "image": "https://i.ebayimg.com/images/g/KlYAAOSwZQ9eDyOd/s-l800.jpg",
     "description": "Description goes here....",
     "categoryId": "2",
     "brandId": "1",
@@ -77,6 +79,7 @@
     "productId": "3",
     "name": "Zara Jean Top",
     "price": "16.67",
+    "image": "https://static.zara.net/photos//mkt/spots/ss19-new-accessories-girl-kids/layout-desktop//look1-look1.st.jpg",
     "description": "Puma t shirt for all weather",
     "categoryId": "3",
     "brandId": "1",
@@ -94,26 +97,27 @@
         "imagePath": "https://static.zara.net/photos//mkt/spots/ss19-new-accessories-girl-kids/layout-desktop//look1-look1.st.jpg"
       },
       {
-        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
+        "imagePath": "https://i.ebayimg.com/images/g/bq8AAOSwPXBdI63Y/s-l300.jpg"
       },
       {
-        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
+        "imagePath": "https://www.hellomagazine.com/imagenes/fashion/celebrity-style/2019112681107/amanda-holden-zara-jeans-instagram-white-shirt-gucci-belt/0-391-199/amanda-holden-outfit-instagram-jeans-t.jpg"
       },
       {
-        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
+        "imagePath": "https://cdn.cliqueinc.com/posts/283392/how-to-style-zara-jeans-for-fall-283392-1572231260500-image.700x0c.jpg"
       },
       {
-        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
+        "imagePath": "https://imgix.bustle.com/uploads/image/2019/7/22/d65642b7-f766-47fc-a87b-0494725d58da-opener-edited.jpg"
       },
       {
-        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
+        "imagePath": "https://i2.wp.com/couturezilla.com/wp-content/uploads/2020/02/Zara-blue-slouchy-jeans-blue-faux-fur-jacket-white-shirt-heels-andreea-birsan-couturezilla-cute-spring-and-winter-outfit-ideas-2020-16.jpg"
       }
     ]
   },
   {
     "productId": "4",
-    "name": "Puma T Shirt",
+    "name": "Zara Out Fit",
     "price": "16.67",
+    "Image": "https://17fdu42etp8l3lqlpj43gnlr-wpengine.netdna-ssl.com/wp-content/uploads/2014/02/because-im-addicted-ZARA-Spring-5.jpg",
     "description": "Puma t shirt for all weather",
     "categoryId": "4",
     "brandId": "1",
@@ -128,29 +132,30 @@
     },
     "productImages": [
       {
-        "imagePath": ""
+        "imagePath": "https://17fdu42etp8l3lqlpj43gnlr-wpengine.netdna-ssl.com/wp-content/uploads/2014/02/because-im-addicted-ZARA-Spring-5.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://static.zara.net/photos//2014/V/L/0/p/1402/002/000/2/w/1920/1402002000_1_1_1_web.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://static1.squarespace.com/static/553fdbaee4b0d82b91dbde7d/555c33ede4b038a47a3f471b/554bb718e4b0be04c85a256a/1431030151968/Zara-ad-campaign-3.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://cdn.vogue.mx/uploads/images/thumbs/201408/look_book_primavera_verano_2014_zara_871519026_900x601.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://i.imgur.com/VoHqFL6.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.swomag.com/wp-content/uploads/2014/03/zara-ss2014-lookbook-08-600x445.jpg"
       }
     ]
   },
   {
     "productId": "5",
-    "name": "Puma T Shirt",
+    "name": "Zara Lip Stick",
     "price": "16.67",
+    "image": "https://media.allure.com/photos/5c0172eb4693f773594135fd/16:9/w_2560%2Cc_limit/zara%252520lipstick.jpg",
     "description": "Puma t shirt for all weather",
     "categoryId": "5",
     "brandId": "1",
@@ -165,29 +170,30 @@
     },
     "productImages": [
       {
-        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
+        "imagePath": "https://media.allure.com/photos/5c0172eb4693f773594135fd/16:9/w_2560%2Cc_limit/zara%252520lipstick.jpg"
+      },
+      {
+        "imagePath": "https://135525-391882-2-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/12/zara-lip-3.jpg"
+      },
+      {
+        "imagePath": "https://img.youtube.com/vi/ISPRQ0U1m8k/0.jpg"
+      },
+      {
+        "imagePath": "https://media.allure.com/photos/5c0171f250b9562d01536888/master/w_1600%2Cc_limit/zara%252520lipstick%252520pair.jpg"
       },
       {
         "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
       },
       {
-        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
-      },
-      {
-        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
-      },
-      {
-        "imagePath": "https://www.millionpiece.com/wp-content/uploads/2019/02/6096210400_2_10_11.jpg"
-      },
-      {
-        "imagePath": ""
+        "imagePath": "https://makeupsnitch.com/wp-content/uploads/2018/12/47287530_2274933989243482_5516561144371740672_n-848x477.jpg"
       }
     ]
   },
   {
     "productId": "6",
-    "name": "Puma T Shirt",
+    "name": "Adidas Track Suit",
     "price": "16.67",
+    "image": "https://www.luxurybrandgang.com/wp-content/uploads/2019/01/adidas-track-suit-women.jpg",
     "description": "Puma t shirt for all weather",
     "categoryId": "1",
     "brandId": "2",
@@ -202,19 +208,19 @@
     },
     "productImages": [
       {
-        "imagePath": ""
+        "imagePath": "https://i0.wp.com/ae01.alicdn.com/kf/Hea5acfc8d66d4e7987fffd29d8ca306fy/Original-New-Arrival-2018-Adidas-Originals-SST-TRACK-TOP-Women-s-jacket-Sportswear.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://i.ebayimg.com/images/g/O-0AAOSwvdxdSio9/s-l400.webp"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://i.pinimg.com/originals/10/0c/01/100c0125ce61999d9473536d2f0b5937.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://dtpmhvbsmffsz.cloudfront.net/posts/2013/12/06/52a1e0ca5d5f4e78fa01450f/m_52a1e0d25d5f4e78fa014511.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://i.ebayimg.com/images/g/zKwAAOSwJJdc5Qx2/s-l640.jpg"
       },
       {
         "imagePath": ""
@@ -223,8 +229,9 @@
   },
   {
     "productId": "7",
-    "name": "Puma T Shirt",
+    "name": "Ultra Boots",
     "price": "16.67",
+    "image": "https://i.pinimg.com/originals/1e/64/df/1e64df0bdcdeea8bf1a7fd9444e09324.jpg",
     "description": "Puma t shirt for all weather",
     "categoryId": "2",
     "brandId": "2",
@@ -239,22 +246,22 @@
     },
     "productImages": [
       {
-        "imagePath": ""
+        "imagePath": "https://s.aolcdn.com/hss/storage/midas/8115f4183f5ec6844eedc609ef407b9b/205162253/futurecraft4dlede.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://i.ytimg.com/vi/2TBklUkm8KQ/maxresdefault.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://cdn.shopify.com/s/files/1/2700/0148/products/1550475360c0a16ba9067a70ab9711932bcdf8353eZelus_grande.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://www.kicksvogue.club/wp-content/uploads/2018/08/20180828_172124_163.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://di2ponv0v5otw.cloudfront.net/posts/2018/02/16/5a879f4e8df470d1b71ea688/m_5a879f6da44dbe695b8ee5b5.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr9NhCoq4HlQE7WlkMZ0-hqcAFovEsbhXFPq9FKkbcreSDFg01"
       }
     ]
   },
