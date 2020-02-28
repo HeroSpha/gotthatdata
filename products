@@ -267,8 +267,9 @@
   },
   {
     "productId": "8",
-    "name": "Puma T Shirt",
+    "name": "Adidas Disney Marver",
     "price": "16.67",
+    "image": "https://hip2save.com/wp-content/uploads/2019/07/Minnie-Adidas-Shoe.jpg",
     "description": "Puma t shirt for all weather",
     "categoryId": "3",
     "brandId": "2",
@@ -283,29 +284,30 @@
     },
     "productImages": [
       {
-        "imagePath": ""
+        "imagePath": "https://hip2save.com/wp-content/uploads/2019/07/Minnie-Adidas-Shoe.jpg?fit=1200%2C630&strip=all"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/v/0/v07a7246.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://d2h1pu99sxkfvn.cloudfront.net/b0/9854484/402330506_urG8Z0Ftjv/P6.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://d2h1pu99sxkfvn.cloudfront.net/b0/9854484/402330506_urG8Z0Ftjv/P6.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://d2h1pu99sxkfvn.cloudfront.net/b0/9854484/402330506_urG8Z0Ftjv/P6.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://d2h1pu99sxkfvn.cloudfront.net/b0/9854484/402330506_urG8Z0Ftjv/P6.jpg"
       }
     ]
   },
   {
     "productId": "9",
-    "name": "Puma T Shirt",
+    "name": "Adidas T Shirt",
     "price": "16.67",
+    "image": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cIAAAOSw8GtZOsdb/$_57.JPG",
     "description": "Puma t shirt for all weather",
     "categoryId": "4",
     "brandId": "2",
@@ -320,19 +322,19 @@
     },
     "productImages": [
       {
-        "imagePath": ""
+        "imagePath": "https://i.ytimg.com/vi/VlSgxMZac4A/maxresdefault.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://i.ytimg.com/vi/OjmVXOYcJdQ/hqdefault.jpg"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwGcmE5MGfUjC70ZCLSqnekY8tpDE7jsuS6LApWxd16gxHensh"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2009%2F12%2Fcheez-adidas-logo-tshirt.jpg?w=960&cbr=1&q=90&fit=max"
       },
       {
-        "imagePath": ""
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJLl9_vbs_yAIlWRwlWBQsedtQaavUpGbAKmLC2q5euvMVBW16"
       },
       {
         "imagePath": ""
